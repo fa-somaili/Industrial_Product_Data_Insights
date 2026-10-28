@@ -1,0 +1,11 @@
+﻿Product ID;Product Name;Category;Price;Stock;Supplier
+P001;Industrial Pump A;Pumps;450;12;Supplier Alpha
+P002;Industrial Valve B;Valves;85;30;Supplier Beta
+P003;Pressure Sensor C;Sensors;120;18;Supplier Alpha
+P004;Industrial Pump D;Pumps;520;7;Supplier Gamma
+P005;Controle Unit E;Electronics;210;15;Supplier Beta
+P006;Industrial Valve F;Valves;95;22;Supplier Alpha
+P007;Flow Sensor G;Sensors;75;40;Supplier Gamma
+P008;Motor H;Moters;300;9;Supplier Beta
+P009;Industrial Pump I;Pumps;480;11;Supplier Gamma
+P010;Controle Unit J;Electronics;180;14;Supplier Alpha
