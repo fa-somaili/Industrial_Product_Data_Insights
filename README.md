@@ -22,7 +22,7 @@ A Python and Excel project for analysing fictional industrial product data and f
 
 product_data_analyzer.py —> Data analysis and quality checks
 
-industrial_products.csv —> Main dataset
+industrial_product —> Main dataset
 
 industrial_products_test.csv —> Test dataset with deliberate errors
 
